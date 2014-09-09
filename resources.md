@@ -20,6 +20,7 @@ Competitive Programming
 11. [CodeForces](http://codeforces.com/)
 12. [Daily Programmer](http://www.reddit.com/r/dailyprogrammer/)
 13. [UVA Problemset](http://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=1)
+14. [UVA Solutions Wiki](http://www.algorithmist.com/index.php/Category:UVa_Online_Judge)
 
 Algorithms Resources
 ====================
