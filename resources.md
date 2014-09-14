@@ -49,3 +49,8 @@ Programming Languages Resources
 3. [C++ Language](http://www.cplusplus.com/doc/tutorial/)
 4. [Topcoder: STL Tutorial 1](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=standardTemplateLibrary)
 5. [Topcoder: STL Tutorial 2](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=standardTemplateLibrary2)
+
+Other Misc Resources
+====================
+1. [Algorithm Rocks](http://www.algorithms.rocks/)
+2. [Algomation](http://www.algomation.com/)
