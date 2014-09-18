@@ -32,3 +32,8 @@ Reading Resources
 11. [5 Lessons Learned from the Event Recommendation Challenge](http://blog.kaggle.com/2013/02/25/5-lessons-learned-for-the-event-recommendation-challenge/)
 12. [Github Contest](https://github.com/jeremybarnes/github_contest)
 13. [How can I start building a recommendation engine?](http://www.quora.com/How-can-I-start-building-a-recommendation-engine)
+14. [Quora: Recommendation System Startups and Products](http://www.quora.com/Recommendation-System-Startups-and-Products)
+15. [Quora: Personalization](http://www.quora.com/Personalization)
+16. [Quora: Collaborative Filtering](http://www.quora.com/Collaborative-Filtering)
+17. [Quora: Similarity Search](http://www.quora.com/Similarity-Search)
+18. [Analyzing Big Data with Twitter](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
