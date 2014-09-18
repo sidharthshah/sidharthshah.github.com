@@ -10,6 +10,7 @@ Recommendation Frameworks
 1. [easyrec](http://sourceforge.net/projects/easyrec/)
 2. [crab](https://github.com/muricoca/crab)
 3. [Apache Mahout](https://mahout.apache.org/)
+4. [Duine](http://www.duineframework.org/)
 
 Reading Resources
 ====================
@@ -25,3 +26,4 @@ Reading Resources
 10. [Recommender Systems](http://www.slideshare.net/xamat/recommender-systems-machine-learning-summer-school-2014-cmu?related=1)
 11. [5 Lessons Learned from the Event Recommendation Challenge](http://blog.kaggle.com/2013/02/25/5-lessons-learned-for-the-event-recommendation-challenge/)
 12. [Github Contest](https://github.com/jeremybarnes/github_contest)
+13. [How can I start building a recommendation engine?](http://www.quora.com/How-can-I-start-building-a-recommendation-engine)
