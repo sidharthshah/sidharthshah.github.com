@@ -12,6 +12,11 @@ Recommendation Frameworks
 3. [Apache Mahout](https://mahout.apache.org/)
 4. [Duine](http://www.duineframework.org/)
 
+Graph DBs
+=========
+1. [Google's Cayley](https://github.com/google/cayley)
+2. [Neo4J](http://www.neo4j.org/)
+
 Reading Resources
 ====================
 1. [Quora: Recommendation Engine Community](http://www.quora.com/Recommendation-Systems)
