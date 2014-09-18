@@ -11,11 +11,16 @@ Recommendation Frameworks
 2. [crab](https://github.com/muricoca/crab)
 3. [Apache Mahout](https://mahout.apache.org/)
 4. [Duine](http://www.duineframework.org/)
+5. [Oryx](https://github.com/cloudera/oryx)
+6. [myrrix](https://github.com/myrrix/myrrix-recommender)
 
-Graph DBs
-=========
+Graph DB & Tools
+================
 1. [Google's Cayley](https://github.com/google/cayley)
 2. [Neo4J](http://www.neo4j.org/)
+3. [Titan](http://thinkaurelius.github.io/titan/)
+4. [Gremlin](https://github.com/tinkerpop/gremlin)
+5. [Faunus](http://thinkaurelius.github.io/faunus/)
 
 Reading Resources
 =================
@@ -36,6 +41,12 @@ Reading Resources
 15. [Quora: Personalization](http://www.quora.com/Personalization)
 16. [Quora: Collaborative Filtering](http://www.quora.com/Collaborative-Filtering)
 17. [Quora: Similarity Search](http://www.quora.com/Similarity-Search)
+18. [Slideshare: Using AWS to Build a Graph-Based Product Recommendation System](http://www.slideshare.net/AmazonWebServices/using-aws-to-build-a-graphbased-product-recommendation-system-bdt303-aws-reinvent-2013)
+
+Companies
+=========
+1. [SuggestIO](https://www.sugestio.com/documentation)
+2. [DirectedEdge](http://www.directededge.com/)
 
 Big Data Resources
 ==================
@@ -46,3 +57,4 @@ Big Data Resources
 5. [Cloudera's Blog](http://blog.cloudera.com/blog/)
 6. [Hortonworkd's Blog](http://hortonworks.com/blog/)
 7. [Analyzing Big Data with Twitter](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
+
