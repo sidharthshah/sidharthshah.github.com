@@ -36,7 +36,6 @@ Reading Resources
 15. [Quora: Personalization](http://www.quora.com/Personalization)
 16. [Quora: Collaborative Filtering](http://www.quora.com/Collaborative-Filtering)
 17. [Quora: Similarity Search](http://www.quora.com/Similarity-Search)
-18. [Analyzing Big Data with Twitter](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
 
 Big Data Resources
 ==================
@@ -46,3 +45,4 @@ Big Data Resources
 4. [Awesome BigData](https://github.com/onurakpolat/awesome-bigdata)
 5. [Cloudera's Blog](http://blog.cloudera.com/blog/)
 6. [Hortonworkd's Blog](http://hortonworks.com/blog/)
+7. [Analyzing Big Data with Twitter](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
