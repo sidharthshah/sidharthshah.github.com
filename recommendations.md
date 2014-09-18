@@ -18,7 +18,7 @@ Graph DBs
 2. [Neo4J](http://www.neo4j.org/)
 
 Reading Resources
-====================
+=================
 1. [Quora: Recommendation Engine Community](http://www.quora.com/Recommendation-Systems)
 2. [Quora: How does LinkedIn's recommendation system work?](http://www.quora.com/How-does-LinkedIns-recommendation-system-work)
 3. [Quora: What are some good research papers and articles on recommendation systems and engines?](http://www.quora.com/What-are-some-good-research-papers-and-articles-on-recommendation-systems-and-engines)
@@ -37,3 +37,12 @@ Reading Resources
 16. [Quora: Collaborative Filtering](http://www.quora.com/Collaborative-Filtering)
 17. [Quora: Similarity Search](http://www.quora.com/Similarity-Search)
 18. [Analyzing Big Data with Twitter](http://blogs.ischool.berkeley.edu/i290-abdt-s12/)
+
+Big Data Resources
+==================
+1. [Hortonworks: Hadoop Tutorials](https://github.com/hortonworks/hadoop-tutorials)
+2. [Apache Mahout Tutorials](https://mahout.apache.org/general/books-tutorials-and-talks.html)
+3. [Awesome Hadoop](https://github.com/youngwookim/awesome-hadoop)
+4. [Awesome BigData](https://github.com/onurakpolat/awesome-bigdata)
+5. [Cloudera's Blog](http://blog.cloudera.com/blog/)
+6. [Hortonworkd's Blog](http://hortonworks.com/blog/)
