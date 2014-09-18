@@ -42,6 +42,8 @@ Reading Resources
 16. [Quora: Collaborative Filtering](http://www.quora.com/Collaborative-Filtering)
 17. [Quora: Similarity Search](http://www.quora.com/Similarity-Search)
 18. [Slideshare: Using AWS to Build a Graph-Based Product Recommendation System](http://www.slideshare.net/AmazonWebServices/using-aws-to-build-a-graphbased-product-recommendation-system-bdt303-aws-reinvent-2013)
+19. [PDF: You Might Also Like: A Multi-GPU 
+Recommendation System]http://www.nvidia.com/content/GTC/documents/1034_GTC09.pdf
 
 Companies
 =========
