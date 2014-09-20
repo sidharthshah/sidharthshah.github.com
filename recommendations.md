@@ -14,6 +14,8 @@ Recommendation Frameworks
 5. [Oryx](https://github.com/cloudera/oryx)
 6. [myrrix](https://github.com/myrrix/myrrix-recommender)
 7. [Apaceh Spark](https://spark.apache.org/)
+8. [Node.js: racoon](https://www.npmjs.org/package/raccoon)
+9. [Ruby Toolbox: Recommendation Engines](https://www.ruby-toolbox.com/categories/Recommendation_Engines)
 
 Graph DB & Tools
 ================
@@ -62,6 +64,9 @@ Recommendation System](http://www.nvidia.com/content/GTC/documents/1034_GTC09.pd
 33. [Efficient K-Nearest Neighbor Graph Construction for Generic Similarity Measures](http://www.cs.princeton.edu/cass/papers/www11.pdf)
 34. [SlideShare: Algorithmic Music Recommendations at Spotify](http://www.slideshare.net/MrChrisJohnson/algorithmic-music-recommendations-at-spotify?related=2)
 35. [SlideShare: Music Recommendations at Scale with Spark](http://www.slideshare.net/MrChrisJohnson/music-recommendations-at-scale-with-spark?related=4)
+36. [Giving Away Our Recommendation Engine for Free](http://blog.mortardata.com/post/82195614895/giving-away-our-recommendation-engine-for-free)
+37. [Collaborative Filtering](http://webwhompers.com/collaborative-filtering.html)
+38. [Kaggle: CarrerBuilder Post Mortem -- What data did you use?](http://www.kaggle.com/c/job-recommendation/forums/t/2830/post-mortem-what-data-did-you-use/15614#post15614)
 
 Companies
 =========

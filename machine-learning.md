@@ -10,6 +10,7 @@ ML Tools
 2. [Theano](http://deeplearning.net/software/theano/index.html#)
 3. [scikit-learn](http://scikit-learn.org/stable/index.html)
 4. [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
+5. [Oryx](https://github.com/cloudera/oryx)
 
 Courses
 =======
