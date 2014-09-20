@@ -58,6 +58,9 @@ Recommendation System](http://www.nvidia.com/content/GTC/documents/1034_GTC09.pd
 31. [Slope One](http://en.wikipedia.org/wiki/Slope_One)
 32. [Collaborative Filtering for Orkut Communities](http://www2009.eprints.org/69/1/p681.pdf)
 33. [Efficient K-Nearest Neighbor Graph Construction for Generic Similarity Measures](http://www.cs.princeton.edu/cass/papers/www11.pdf)
+34. [SlideShare: Algorithmic Music Recommendations at Spotify](http://www.slideshare.net/MrChrisJohnson/algorithmic-music-recommendations-at-spotify?related=2)
+35. [SlideShare: Music Recommendations at Scale with Spark](http://www.slideshare.net/MrChrisJohnson/music-recommendations-at-scale-with-spark?related=4)
+
 Companies
 =========
 1. [SuggestIO](https://www.sugestio.com/documentation)
