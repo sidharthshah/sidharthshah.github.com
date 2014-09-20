@@ -43,7 +43,7 @@ Reading Resources
 17. [Quora: Similarity Search](http://www.quora.com/Similarity-Search)
 18. [Slideshare: Using AWS to Build a Graph-Based Product Recommendation System](http://www.slideshare.net/AmazonWebServices/using-aws-to-build-a-graphbased-product-recommendation-system-bdt303-aws-reinvent-2013)
 19. [PDF: You Might Also Like: A Multi-GPU 
-Recommendation System]http://www.nvidia.com/content/GTC/documents/1034_GTC09.pdf
+Recommendation System](http://www.nvidia.com/content/GTC/documents/1034_GTC09.pdf)
 20. [Recommendation System in R](Recommendation System in R)
 21. [Build Recommendation Engine with MongoDB and Hadoop](http://blog.mortardata.com/post/84327807886/build-a-recommendation-engine-with-mongodb-and-hadoop)
 22. [Building a Recommendation System in Python](http://nbviewer.ipython.org/gist/glamp/20a18d52c539b87de2af)
@@ -52,7 +52,12 @@ Recommendation System]http://www.nvidia.com/content/GTC/documents/1034_GTC09.pdf
 25. [Why You Should Not Build a Recommendation Engine](http://datacommunitydc.org/blog/2013/05/recommendation-engines-why-you-shouldnt-build-one/)
 26. [Recommendations Everywhere](http://blogs.technet.com/b/machinelearning/archive/2014/07/09/recommendations-everywhere.aspx)
 27. [Here's How OkCupid Uses Math to Find Your Match](http://gizmodo.com/5984005/heres-how-okcupid-uses-math-to-find-your-match)
-
+28. [SlideShare: Recommendations play @flipkart](http://www.slideshare.net/gauravbhalotia/recommendations-play-flipkart)
+29. [The YouTube Video Recommendation System](http://stuyresearch.googlecode.com/hg-history/b17661bbfaf905a2078902f1abe6b795d4a29137/blake/resources/p293-davidson.pdf)
+30 [How Computers Know What We Want — Before We Do](http://content.time.com/time/magazine/article/0,9171,1992403-1,00.html)
+31. [Slope One](http://en.wikipedia.org/wiki/Slope_One)
+32. [Collaborative Filtering for Orkut Communities](http://www2009.eprints.org/69/1/p681.pdf)
+33. [Efficient K-Nearest Neighbor Graph Construction for Generic Similarity Measures](http://www.cs.princeton.edu/cass/papers/www11.pdf)
 Companies
 =========
 1. [SuggestIO](https://www.sugestio.com/documentation)
