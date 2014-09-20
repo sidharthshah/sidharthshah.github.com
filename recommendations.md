@@ -13,6 +13,7 @@ Recommendation Frameworks
 4. [Duine](http://www.duineframework.org/)
 5. [Oryx](https://github.com/cloudera/oryx)
 6. [myrrix](https://github.com/myrrix/myrrix-recommender)
+7. [Apaceh Spark](https://spark.apache.org/)
 
 Graph DB & Tools
 ================
