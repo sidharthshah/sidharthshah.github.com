@@ -22,6 +22,7 @@ Graph DB & Tools
 3. [Titan](http://thinkaurelius.github.io/titan/)
 4. [Gremlin](https://github.com/tinkerpop/gremlin)
 5. [Faunus](http://thinkaurelius.github.io/faunus/)
+6. [Freebase](https://developers.google.com/freebase/)
 
 Reading Resources
 =================

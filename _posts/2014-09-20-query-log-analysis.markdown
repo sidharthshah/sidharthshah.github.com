@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Query Log Analysis"
-date:   2014-09-07 00:00:00
+date:   2014-09-20 00:00:00
 categories: update
 ---
 Back in 2006 there was data leak from [AOL](http://en.wikipedia.org/wiki/AOL_search_data_leak). Since then [dataset](http://www.cim.mcgill.ca/~dudek/206/Logs/AOL-user-ct-collection/) has been lived eternally on internet, which is a boon given that you don't easily get access to datasets anymore. Following are some interesting research on that front 
