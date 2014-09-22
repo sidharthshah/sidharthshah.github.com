@@ -47,6 +47,8 @@ Algorithms Resources
 21. [Quora: What are some macros that are used in programming contests?](http://www.quora.com/What-are-some-macros-that-are-used-in-programming-contests)
 22. [Code template for programming contest](https://gist.github.com/pondering/3857190)
 23. [Quora: What are some useful C++ and Python code snippets for programming contests?](http://www.quora.com/What-are-some-useful-C++-and-Python-code-snippets-for-programming-contests)
+24. [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
+25. [Algorithms 4th Edition](http://algs4.cs.princeton.edu/home/)
 
 Programming Languages Resources
 ================================
