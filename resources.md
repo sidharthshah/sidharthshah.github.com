@@ -41,6 +41,12 @@ Algorithms Resources
 15. [Quora: Competitive Programming](http://www.quora.com/Competitive-Programming)
 16. [Quora: Algorithms](http://www.quora.com/Algorithms)
 17. [Quora: Data Structures](http://www.quora.com/Data-Structures)
+18. [Programming Contest Tips](http://jj09.net/programming-contest-tips/)
+19. [Programming Contest Tips](http://mrmbdctg.freehostia.com/contest_Tipsforbeginner.html)
+20. [Programming Contest Year Plan - Yes a year Plan to be a better Programmer](http://mrmbdctg.freehostia.com/contest_Tipsforbeginner.html)
+21. [Quora: What are some macros that are used in programming contests?](http://www.quora.com/What-are-some-macros-that-are-used-in-programming-contests)
+22. [Code template for programming contest](https://gist.github.com/pondering/3857190)
+23. [Quora: What are some useful C++ and Python code snippets for programming contests?](http://www.quora.com/What-are-some-useful-C++-and-Python-code-snippets-for-programming-contests)
 
 Programming Languages Resources
 ================================
