@@ -43,3 +43,10 @@ Reading Resources
 19. [Brute Force and Indexed Approaches to Pairwise Document Similarity Comparisons with MapReduce](http://www.umiacs.umd.edu/~jimmylin/publications/Lin_SIGIR2009.pdf)
 20. [Pairwise Document Similarity in Large Collections with MapReduce](http://www.ece.umd.edu/~oard/pdf/acl08elsayed2.pdf)
 21. [Learning-based Entity Resolution with MapReduce](http://dbs.uni-leipzig.de/file/learning_based_er_with_mr.pdf)
+22. [Mining of Massive Datasets](http://www.mmds.org/#ver21)
+23. [Coursera: Mining Massive Datasets](https://www.coursera.org/course/mmds)
+
+Visualization
+=============
+1. [Conditional probability](http://setosa.io/conditional/)
+2. [FlowingData](http://flowingdata.com/)
