@@ -48,6 +48,8 @@ Reading Resources
 24. [Using Machine Learning and NodeJS to detect the gender of Instagram Users](http://totems.co/blog/machine-learning-nodejs-gender-instagram/)
 25. [Mechanical Turk supplies Gilt with artificial artificial intelligence](http://searchcio.techtarget.com/feature/Mechanical-Turk-supplies-Gilt-with-artificial-artificial-intelligence)
 26. [You Don’t Have to Be Google to Build an Artificial Brain](http://www.wired.com/2014/09/google-artificial-brain/)
+27. [Machine learning cheatsheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
+28. [Scikit Learn](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 
 Visualization
 =============
