@@ -45,6 +45,9 @@ Reading Resources
 21. [Learning-based Entity Resolution with MapReduce](http://dbs.uni-leipzig.de/file/learning_based_er_with_mr.pdf)
 22. [Mining of Massive Datasets](http://www.mmds.org/#ver21)
 23. [Coursera: Mining Massive Datasets](https://www.coursera.org/course/mmds)
+24. [Using Machine Learning and NodeJS to detect the gender of Instagram Users](http://totems.co/blog/machine-learning-nodejs-gender-instagram/)
+25. [Mechanical Turk supplies Gilt with artificial artificial intelligence](http://searchcio.techtarget.com/feature/Mechanical-Turk-supplies-Gilt-with-artificial-artificial-intelligence)
+26. [You Don’t Have to Be Google to Build an Artificial Brain](http://www.wired.com/2014/09/google-artificial-brain/)
 
 Visualization
 =============
