@@ -50,7 +50,9 @@ Reading Resources
 25. [Mechanical Turk supplies Gilt with artificial artificial intelligence](http://searchcio.techtarget.com/feature/Mechanical-Turk-supplies-Gilt-with-artificial-artificial-intelligence)
 26. [You Don’t Have to Be Google to Build an Artificial Brain](http://www.wired.com/2014/09/google-artificial-brain/)
 27. [Machine learning cheatsheet](https://github.com/soulmachine/machine-learning-cheat-sheet)
-28. [Scikit Learn](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+28. [Scikit Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
+29. [Deep Learning Tutorial](http://deeplearning.net/tutorial/intro.html)
+30. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 Visualization
 =============
