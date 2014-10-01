@@ -12,6 +12,7 @@ ML Tools
 4. [Weka](http://www.cs.waikato.ac.nz/ml/weka/)
 5. [Oryx](https://github.com/cloudera/oryx)
 6. [ml-ply](http://mlpy.sourceforge.net/)
+7. [ml-ease](http://engineering.linkedin.com/large-scale-machine-learning/open-sourcing-ml-ease)
 
 Courses
 =======

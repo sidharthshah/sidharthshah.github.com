@@ -49,6 +49,7 @@ Algorithms Resources
 23. [Quora: What are some useful C++ and Python code snippets for programming contests?](http://www.quora.com/What-are-some-useful-C++-and-Python-code-snippets-for-programming-contests)
 24. [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/runestone/static/pythonds/index.html)
 25. [Algorithms 4th Edition](http://algs4.cs.princeton.edu/home/)
+26. [Algpedia](http://algpedia.dcc.ufrj.br/)
 
 Programming Languages Resources
 ================================
