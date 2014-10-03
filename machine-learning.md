@@ -18,6 +18,8 @@ Courses
 =======
 1. [Andrew Ng: Stanford's Machine Learning Course](https://www.youtube.com/watch?v=UzxYlbK2c7E)
 2. [Data mining with Weka](http://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
+3. [Mining Massive Datasets](https://class.coursera.org/mmds-001)
+4. [AMP Camp](http://ampcamp.berkeley.edu)
 
 
 Reading Resources
@@ -53,6 +55,7 @@ Reading Resources
 28. [Scikit Learning Map](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
 29. [Deep Learning Tutorial](http://deeplearning.net/tutorial/intro.html)
 30. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
+31. [PDF: Mining of Massive Datasets](http://infolab.stanford.edu/~ullman/mmds/book.pdf)
 
 Visualization
 =============
