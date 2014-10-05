@@ -24,6 +24,7 @@ Courses
 2. [Data mining with Weka](http://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/)
 3. [Mining Massive Datasets](https://class.coursera.org/mmds-001)
 4. [AMP Camp](http://ampcamp.berkeley.edu)
+5. [Data Mining](http://www.cs.utah.edu/~jeffp/teaching/cs5140.html)
 
 
 Reading Resources
