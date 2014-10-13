@@ -67,6 +67,10 @@ Reading Resources
 35. [Machine Learning with scikit-learn](https://kaggle2.blob.core.windows.net/prospector-files/1091/815dad0d-88d9-4b70-9117-fe7cee94879b/scikitlearn.pdf)
 36. [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html)
 37. [The Browsemaps: Collaborative Filtering at LinkedIn](http://mitultiwari.net/docs/papers/browsemap.pdf)
+38. [Modeling the Last Flight of MH370 with a Markov Chain Monte Carlo Method](http://nbviewer.ipython.org/github/myhrvold/MH370_MCMC/blob/master/MH370_MC_ConorMyhrvold.ipynb)
+39. [Probabilistic Programming and Bayesian Methods for Hackers](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/)
+40. [Machine Learning Applications for Data Center Optimization
+](http://static.googleusercontent.com/media/www.google.com/en//about/datacenters/efficiency/internal/assets/machine-learning-applicationsfor-datacenter-optimization-finalv2.pdf)
 
 Visualization
 =============
