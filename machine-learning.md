@@ -17,6 +17,7 @@ ML Tools
 9. [crfsuite](https://github.com/chokkan/crfsuite)
 10. [Google's OR Tools](https://developers.google.com/optimization/docs/installing)
 11. [Github: Machine Learning Showcase](https://github.com/showcases/machine-learning?utm_content=bufferd51bb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+12. [NetworkX](https://networkx.github.io/documentation/latest/reference/algorithms.html)
 
 Courses
 =======
