@@ -66,6 +66,7 @@ Reading Resources
 34. [Parallel and Large Scale Learning with scikit-learn](https://kaggle2.blob.core.windows.net/prospector-files/1092/8e6cc338-54ea-4818-acff-8679f38cdd26/Parallel_Machine_Learning.pdf)
 35. [Machine Learning with scikit-learn](https://kaggle2.blob.core.windows.net/prospector-files/1091/815dad0d-88d9-4b70-9117-fe7cee94879b/scikitlearn.pdf)
 36. [Naive Bayes and Text Classification](http://sebastianraschka.com/Articles/2014_naive_bayes_1.html)
+37. [The Browsemaps: Collaborative Filtering at LinkedIn](http://mitultiwari.net/docs/papers/browsemap.pdf)
 
 Visualization
 =============
