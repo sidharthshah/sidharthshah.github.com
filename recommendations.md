@@ -68,6 +68,7 @@ Recommendation System](http://www.nvidia.com/content/GTC/documents/1034_GTC09.pd
 37. [Collaborative Filtering](http://webwhompers.com/collaborative-filtering.html)
 38. [Kaggle: CarrerBuilder Post Mortem -- What data did you use?](http://www.kaggle.com/c/job-recommendation/forums/t/2830/post-mortem-what-data-did-you-use/15614#post15614)
 39. [LinkedIn Publications](http://data.linkedin.com/publications)
+
 Companies
 =========
 1. [SuggestIO](https://www.sugestio.com/documentation)
