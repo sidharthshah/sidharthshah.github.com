@@ -26,6 +26,7 @@ Courses
 3. [Mining Massive Datasets](https://class.coursera.org/mmds-001)
 4. [AMP Camp](http://ampcamp.berkeley.edu)
 5. [Data Mining](http://www.cs.utah.edu/~jeffp/teaching/cs5140.html)
+6. [Machine Learning with Large Datasets](http://curtis.ml.cmu.edu/w/courses/index.php/Machine_Learning_with_Large_Datasets_10-605_in_Spring_2014)
 
 
 Reading Resources
