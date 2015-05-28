@@ -7,7 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Sidharth holds an MS Degree from USC. He is passionate about Algorithms, Data Mining and Artificial Intelligence.
   Recently he has been playing around with Arduino and RaspberryPi
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://sidharthshah.github.io" # the base hostname & protocol for your site
 twitter_username: iamsidd
 github_username:  sidharthshah
 
