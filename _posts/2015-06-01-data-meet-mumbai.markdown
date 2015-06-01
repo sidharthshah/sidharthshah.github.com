@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "DataMeet Mumbai: Analytics with Land"
+title:  "DataMeet Mumbai: Analytics and Land"
 date:   2015-06-01 00:00:00
 categories: meetup datascience
 ---
