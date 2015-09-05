@@ -12,7 +12,8 @@ IR Tools
 4. [Elastic Search](https://www.elastic.co/)
 5. [NLTK](http://www.nltk.org/)
 6. [DARPA's Memex Tools](http://opencatalog.darpa.mil/MEMEX.html)
-
+7. [Scrapy Cluster](http://scrapy-cluster.readthedocs.org/en/latest/)
+8. [Portia](https://github.com/scrapinghub/portia)
 Courses
 =======
 1. [Stanford Course](http://web.stanford.edu/class/cs276/)
