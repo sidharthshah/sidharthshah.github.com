@@ -18,6 +18,9 @@ ML Tools
 10. [Google's OR Tools](https://developers.google.com/optimization/docs/installing)
 11. [Github: Machine Learning Showcase](https://github.com/showcases/machine-learning?utm_content=bufferd51bb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 12. [NetworkX](https://networkx.github.io/documentation/latest/reference/algorithms.html)
+13. [Caffe](http://caffe.berkeleyvision.org/)
+14. [Deepdish](http://deepdish.io/)
+
 
 Courses
 =======
@@ -27,7 +30,8 @@ Courses
 4. [AMP Camp](http://ampcamp.berkeley.edu)
 5. [Data Mining](http://www.cs.utah.edu/~jeffp/teaching/cs5140.html)
 6. [Machine Learning with Large Datasets](http://curtis.ml.cmu.edu/w/courses/index.php/Machine_Learning_with_Large_Datasets_10-605_in_Spring_2014)
-
+7. [Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/syllabus.html)
+8. [Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 
 Reading Resources
 =================

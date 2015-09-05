@@ -18,6 +18,7 @@ IR Tools
 10. [pdfminer](https://github.com/euske/pdfminer)
 11. [pdfrw](https://github.com/pmaupin/pdfrw)
 12. [OpenRefine](http://openrefine.org/)
+13. [News Corpus Builder](http://skillachie.github.io/news-corpus-builder/)
 
 
 Courses
@@ -28,6 +29,7 @@ Courses
 4. [Natural Language Procesing](http://www3.nd.edu/~dchiang/teaching/nlp/)
 5. [Stanford: Natural Language Processing](http://web.stanford.edu/class/cs224n/syllabus.shtml#lec1)
 6. [Machine Tranlation Class](http://mt-class.org/)
+7. [Natural Language Generation](http://www.inf.ed.ac.uk/teaching/courses/nlg/)
 
 Talks & Papers
 ==============
