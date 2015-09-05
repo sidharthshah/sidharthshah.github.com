@@ -14,6 +14,11 @@ IR Tools
 6. [DARPA's Memex Tools](http://opencatalog.darpa.mil/MEMEX.html)
 7. [Scrapy Cluster](http://scrapy-cluster.readthedocs.org/en/latest/)
 8. [Portia](https://github.com/scrapinghub/portia)
+9. [slate](https://pypi.python.org/pypi/slate)
+10. [pdfminer](https://github.com/euske/pdfminer)
+11. [pdfrw](https://github.com/pmaupin/pdfrw)
+12. [OpenRefine](http://openrefine.org/)
+
 
 Courses
 =======
@@ -24,12 +29,15 @@ Courses
 5. [Stanford: Natural Language Processing](http://web.stanford.edu/class/cs224n/syllabus.shtml#lec1)
 6. [Machine Tranlation Class](http://mt-class.org/)
 
-Talks
-=====
+Talks & Papers
+==============
 1. [Challenges in Building Large-Scale Information Retrieval Systems](http://web.stanford.edu/class/cs276/Jeff-Dean-Stanford-CS276-April-2015.pdf)
 2. [Tutorial: Web Information Retrieval](http://sci2s.ugr.es/sites/default/files/files/linksInterest/Tutorials/icde.pdf)
 3. [Learning to Rank](http://research.microsoft.com/en-us/people/hangli/li-acl-ijcnlp-2009-tutorial.pdf)
 4. [Solution for the Search Result Relevance Challenge](https://github.com/ChenglongChen/Kaggle_CrowdFlower/blob/master/Doc/Kaggle_CrowdFlower_ChenglongChen.pdf)
+5. [Algorithms for Duplicate Documents](http://www.cs.princeton.edu/courses/archive/spr05/cos598E/bib/Princeton.pdf)
+6. [HyperLogLog and MinHash](http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html)
+7. [Detecting Near-Duplicates for Web Crawling](http://www2007.cpsc.ucalgary.ca/papers/paper215.pdf)
 
 Resources
 =========
