@@ -40,6 +40,7 @@ Talks & Papers
 5. [Algorithms for Duplicate Documents](http://www.cs.princeton.edu/courses/archive/spr05/cos598E/bib/Princeton.pdf)
 6. [HyperLogLog and MinHash](http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html)
 7. [Detecting Near-Duplicates for Web Crawling](http://www2007.cpsc.ucalgary.ca/papers/paper215.pdf)
+8. [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 
 Resources
 =========
