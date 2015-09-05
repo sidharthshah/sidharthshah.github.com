@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recommendation Engines
+title: Recomm. Engines
 permalink: /recommendation-engines/
 ---
 
