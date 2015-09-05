@@ -14,11 +14,15 @@ IR Tools
 6. [DARPA's Memex Tools](http://opencatalog.darpa.mil/MEMEX.html)
 7. [Scrapy Cluster](http://scrapy-cluster.readthedocs.org/en/latest/)
 8. [Portia](https://github.com/scrapinghub/portia)
+
 Courses
 =======
 1. [Stanford Course](http://web.stanford.edu/class/cs276/)
 2. [Information Integration](http://usc-isi-i2.github.io/knoblock/doc/syllabus/CSCI548_Syllabus_Spring_2015.pdf)
 3. [Information Extraction](http://www.cs.cmu.edu/~wcohen/10-707/index-2004.html)
+4. [Natural Language Procesing](http://www3.nd.edu/~dchiang/teaching/nlp/)
+5. [Stanford: Natural Language Processing](http://web.stanford.edu/class/cs224n/syllabus.shtml#lec1)
+6. [Machine Tranlation Class](http://mt-class.org/)
 
 Talks
 =====
