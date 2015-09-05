@@ -11,6 +11,7 @@ IR Tools
 3. [Apache Solr](http://lucene.apache.org/solr/)
 4. [Elastic Search](https://www.elastic.co/)
 5. [NLTK](http://www.nltk.org/)
+6. [DARPA's Memex Tools](http://opencatalog.darpa.mil/MEMEX.html)
 
 Courses
 =======
