@@ -73,6 +73,8 @@ Reading Resources
 39. [Probabilistic Programming and Bayesian Methods for Hackers](http://nbviewer.ipython.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/)
 40. [Machine Learning Applications for Data Center Optimization
 ](http://static.googleusercontent.com/media/www.google.com/en//about/datacenters/efficiency/internal/assets/machine-learning-applicationsfor-datacenter-optimization-finalv2.pdf)
+41. [Solution for the Search Result Relevance Challenge](https://github.com/ChenglongChen/Kaggle_CrowdFlower/blob/master/Doc/Kaggle_CrowdFlower_ChenglongChen.pdf)
+42. [Featured Talk: #1 Kaggle Data Scientist Owen Zhang](http://nycdatascience.com/featured-talk-1-kaggle-data-scientist-owen-zhang/)
 
 Visualization
 =============
