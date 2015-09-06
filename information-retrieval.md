@@ -41,6 +41,7 @@ Talks & Papers
 6. [HyperLogLog and MinHash](http://tech.adroll.com/blog/data/2013/07/10/hll-minhash.html)
 7. [Detecting Near-Duplicates for Web Crawling](http://www2007.cpsc.ucalgary.ca/papers/paper215.pdf)
 8. [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
+9. [A Statistical MT Tutorial Workbook](http://www.isi.edu/natural-language/mt/wkbk-rw.pdf)
 
 Resources
 =========
