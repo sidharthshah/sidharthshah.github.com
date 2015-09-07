@@ -32,6 +32,7 @@ Courses
 7. [Natural Language Generation](http://www.inf.ed.ac.uk/teaching/courses/nlg/)
 8. [Data Mining and Text Mining](http://www.cs.uic.edu/~liub/teach/cs583-fall-15/cs583.html)
 9. [Networks](https://courses.cit.cornell.edu/info2040_2014fa/)
+10. [Social Media Analytics](http://www.isi.edu/~lerman/courses/csci599_2015/Syllabus-Social%20Media%20Analytics_v1.pdf)
 
 Talks & Papers
 ==============
