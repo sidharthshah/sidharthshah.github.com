@@ -19,7 +19,7 @@ IR Tools
 11. [pdfrw](https://github.com/pmaupin/pdfrw)
 12. [OpenRefine](http://openrefine.org/)
 13. [News Corpus Builder](http://skillachie.github.io/news-corpus-builder/)
-
+14. [Google All Pair Similarity Search](https://code.google.com/p/google-all-pairs-similarity-search/)
 
 Courses
 =======
@@ -30,6 +30,8 @@ Courses
 5. [Stanford: Natural Language Processing](http://web.stanford.edu/class/cs224n/syllabus.shtml#lec1)
 6. [Machine Tranlation Class](http://mt-class.org/)
 7. [Natural Language Generation](http://www.inf.ed.ac.uk/teaching/courses/nlg/)
+8. [Data Mining and Text Mining](http://www.cs.uic.edu/~liub/teach/cs583-fall-15/cs583.html)
+9. [Networks](https://courses.cit.cornell.edu/info2040_2014fa/)
 
 Talks & Papers
 ==============
