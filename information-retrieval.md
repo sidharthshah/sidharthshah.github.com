@@ -20,6 +20,7 @@ IR Tools
 12. [OpenRefine](http://openrefine.org/)
 13. [News Corpus Builder](http://skillachie.github.io/news-corpus-builder/)
 14. [Google All Pair Similarity Search](https://code.google.com/p/google-all-pairs-similarity-search/)
+15. [Wukong - Chineese Search Engine in Go](https://github.com/huichen/wukong)
 
 Courses
 =======
@@ -45,7 +46,9 @@ Talks & Papers
 7. [Detecting Near-Duplicates for Web Crawling](http://www2007.cpsc.ucalgary.ca/papers/paper215.pdf)
 8. [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 9. [A Statistical MT Tutorial Workbook](http://www.isi.edu/natural-language/mt/wkbk-rw.pdf)
+10. [Exploting Wikipedia for IR Tasks](http://vitiokm.wix.com/wikitutorial)
 
 Resources
 =========
 1. [IR Book](http://www-nlp.stanford.edu/IR-book/)
+2. [Search Engines - Information Retrieval](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf)
