@@ -47,6 +47,9 @@ Talks & Papers
 8. [Bag of Words Meets Bags of Popcorn](https://www.kaggle.com/c/word2vec-nlp-tutorial)
 9. [A Statistical MT Tutorial Workbook](http://www.isi.edu/natural-language/mt/wkbk-rw.pdf)
 10. [Exploting Wikipedia for IR Tasks](http://vitiokm.wix.com/wikitutorial)
+11. [Boilerplate detection using shallow features](http://www.decom.ufop.br/menotti/rp122/sem/sem1-brayan-milton-art.pdf)
+12. [Briding the structured and unstructured gap: Searching Annotated Web](http://www.tcs.tifr.res.in/events/bridging-structured-unstructured-gap-searching-annotated-web)
+13. [Building blocks for semantic search engine](http://videolectures.net/iiia06_chakrabarti_rcier/)
 
 Resources
 =========
