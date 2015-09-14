@@ -34,6 +34,7 @@ Courses
 8. [Data Mining and Text Mining](http://www.cs.uic.edu/~liub/teach/cs583-fall-15/cs583.html)
 9. [Networks](https://courses.cit.cornell.edu/info2040_2014fa/)
 10. [Social Media Analytics](http://www.isi.edu/~lerman/courses/csci599_2015/Syllabus-Social%20Media%20Analytics_v1.pdf)
+11. [Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
 
 Talks & Papers
 ==============
@@ -50,6 +51,7 @@ Talks & Papers
 11. [Boilerplate detection using shallow features](http://www.decom.ufop.br/menotti/rp122/sem/sem1-brayan-milton-art.pdf)
 12. [Briding the structured and unstructured gap: Searching Annotated Web](http://www.tcs.tifr.res.in/events/bridging-structured-unstructured-gap-searching-annotated-web)
 13. [Building blocks for semantic search engine](http://videolectures.net/iiia06_chakrabarti_rcier/)
+14. [Sentiment Symposium Tutorial](http://sentiment.christopherpotts.net/index.html)
 
 Resources
 =========
