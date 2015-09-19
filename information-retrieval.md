@@ -57,3 +57,4 @@ Resources
 =========
 1. [IR Book](http://www-nlp.stanford.edu/IR-book/)
 2. [Search Engines - Information Retrieval](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf)
+3. [Natural Language Processing: What are the most important research papers which all NLP students should definitely read?](https://www.quora.com/Natural-Language-Processing/What-are-the-most-important-research-papers-which-all-NLP-students-should-definitely-read)
