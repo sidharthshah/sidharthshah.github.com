@@ -52,6 +52,7 @@ Talks & Papers
 12. [Briding the structured and unstructured gap: Searching Annotated Web](http://www.tcs.tifr.res.in/events/bridging-structured-unstructured-gap-searching-annotated-web)
 13. [Building blocks for semantic search engine](http://videolectures.net/iiia06_chakrabarti_rcier/)
 14. [Sentiment Symposium Tutorial](http://sentiment.christopherpotts.net/index.html)
+15. [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 
 Resources
 =========
