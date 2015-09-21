@@ -55,9 +55,11 @@ Talks & Papers
 15. [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 16. [Learning by Example: Training Users with High-quality Query Suggestions](http://pc57724.uni-regensburg.de/morgan/papers/sigir2015_queries.pdf)
 17. [Analyzing User's Sequential Behavior in Query Auto-Completion via Markov Processes](https://labs.yahoo.com/publications/5689/analyzing-users-sequential-behavior-query-auto-completion-markov-processes)
+18. [Optimal insertion in deterministic DAWGs](http://www.sciencedirect.com/science/article/pii/S0304397502005716)
 
 Resources
 =========
 1. [IR Book](http://www-nlp.stanford.edu/IR-book/)
 2. [Search Engines - Information Retrieval](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf)
 3. [Natural Language Processing: What are the most important research papers which all NLP students should definitely read?](https://www.quora.com/Natural-Language-Processing/What-are-the-most-important-research-papers-which-all-NLP-students-should-definitely-read)
+4. [An introduction to Bioinformatics Algorithms](http://www.math-info.univ-paris5.fr/~lomn/Cours/BC/Publis/Complements/introductiontoBioinformaticsAlgorithms.pdf)
