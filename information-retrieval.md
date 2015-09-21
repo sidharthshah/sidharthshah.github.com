@@ -56,6 +56,8 @@ Talks & Papers
 16. [Learning by Example: Training Users with High-quality Query Suggestions](http://pc57724.uni-regensburg.de/morgan/papers/sigir2015_queries.pdf)
 17. [Analyzing User's Sequential Behavior in Query Auto-Completion via Markov Processes](https://labs.yahoo.com/publications/5689/analyzing-users-sequential-behavior-query-auto-completion-markov-processes)
 18. [Optimal insertion in deterministic DAWGs](http://www.sciencedirect.com/science/article/pii/S0304397502005716)
+19. [Introduction to Probabilistic Topic Models](https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf)
+20. [How Google Set Works](http://www.seobythesea.com/2008/03/how-google-sets-works/)
 
 Resources
 =========
