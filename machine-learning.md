@@ -80,6 +80,7 @@ Reading Resources
 41. [Solution for the Search Result Relevance Challenge](https://github.com/ChenglongChen/Kaggle_CrowdFlower/blob/master/Doc/Kaggle_CrowdFlower_ChenglongChen.pdf)
 42. [Featured Talk: #1 Kaggle Data Scientist Owen Zhang](http://nycdatascience.com/featured-talk-1-kaggle-data-scientist-owen-zhang/)
 43. [Online LDA with Vowpal Wabbit](http://mlwave.com/tutorial-online-lda-with-vowpal-wabbit/)
+44. [KAGGLE ENSEMBLING GUIDE](http://mlwave.com/kaggle-ensembling-guide/)
 
 Visualization
 =============
