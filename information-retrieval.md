@@ -58,6 +58,7 @@ Talks & Papers
 18. [Optimal insertion in deterministic DAWGs](http://www.sciencedirect.com/science/article/pii/S0304397502005716)
 19. [Introduction to Probabilistic Topic Models](https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf)
 20. [How Google Set Works](http://www.seobythesea.com/2008/03/how-google-sets-works/)
+21. [LDA Beginners Tutorial](http://www.slideshare.net/WayneLee9/lda-oct3-2013)
 
 Resources
 =========
