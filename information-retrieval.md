@@ -53,6 +53,8 @@ Talks & Papers
 13. [Building blocks for semantic search engine](http://videolectures.net/iiia06_chakrabarti_rcier/)
 14. [Sentiment Symposium Tutorial](http://sentiment.christopherpotts.net/index.html)
 15. [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
+16. [Learning by Example: Training Users with High-quality Query Suggestions](http://pc57724.uni-regensburg.de/morgan/papers/sigir2015_queries.pdf)
+17. [Analyzing User's Sequential Behavior in Query Auto-Completion via Markov Processes](https://labs.yahoo.com/publications/5689/analyzing-users-sequential-behavior-query-auto-completion-markov-processes)
 
 Resources
 =========
