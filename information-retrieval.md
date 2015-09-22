@@ -59,6 +59,12 @@ Talks & Papers
 19. [Introduction to Probabilistic Topic Models](https://www.cs.princeton.edu/~blei/papers/Blei2011.pdf)
 20. [How Google Set Works](http://www.seobythesea.com/2008/03/how-google-sets-works/)
 21. [LDA Beginners Tutorial](http://www.slideshare.net/WayneLee9/lda-oct3-2013)
+22. [Galene - LinkedIn's Search Architecture: Presented by Diego Buthay & Sriram Sankar, LinkedIn](http://www.slideshare.net/lucidworks/galene-linkedins-search-architecture-presented-by-diego-buthay-sriram-sankar-linkedin)
+23. [Did you mean Galene?](https://engineering.linkedin.com/search/did-you-mean-galene)
+24. [The Many Facets of Faceted Search](https://engineering.linkedin.com/faceting/many-facets-faceted-search)
+25. [Under The Hood Building Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-graph-search-beta/10151240856103920)
+26. [Under the Hood: Building out the infrastructure for Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-out-the-infrastructure-for-graph-search/10151347573598920)
+27. [Under the Hood: Indexing and ranking in Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-indexing-and-ranking-in-graph-search/10151361720763920)
 
 Resources
 =========
