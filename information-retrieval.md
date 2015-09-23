@@ -65,6 +65,14 @@ Talks & Papers
 25. [Under The Hood Building Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-graph-search-beta/10151240856103920)
 26. [Under the Hood: Building out the infrastructure for Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-building-out-the-infrastructure-for-graph-search/10151347573598920)
 27. [Under the Hood: Indexing and ranking in Graph Search](https://www.facebook.com/notes/facebook-engineering/under-the-hood-indexing-and-ranking-in-graph-search/10151361720763920)
+28. [SIGIR 2014 Tutorials](http://sigir.org/sigir2014/finaltutorials.php)
+29. [SoMeRA 2014: International Workshop on Social Media Retrieval and Analysis](http://www.cp.jku.at/conferences/SoMeRA2014/)
+30. [Semantic Matching and Information Retrieval](http://smir2014.noahlab.com.hk/SMIR2014.htm)
+31. [Gathering Assesment of Relevance](https://sites.google.com/site/sigirgear/schedule)
+32. [Entity Recognition and Disambiguation Challenge](http://web-ngram.research.microsoft.com/erd2014/Paper.aspx)
+33. [Web Page Sectioning Using Regex-based Templates](http://www.ra.ethz.ch/CDstore/www2008/www2008.org/papers/pdf/p1151-mehtaA.pdf)
+34. [Learning and Matching Human Activities using Regular Expression](http://www.researchgate.net/profile/Nicola_Conci/publication/224201280_Learning_and_matching_human_activities_using_regular_expressions/links/0deec519ba76fd81d6000000.pdf)
+35. [RoadRunner](http://www.vldb.org/conf/2001/P109.pdf)
 
 Resources
 =========
