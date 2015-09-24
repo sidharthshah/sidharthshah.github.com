@@ -80,3 +80,4 @@ Resources
 2. [Search Engines - Information Retrieval](http://ciir.cs.umass.edu/downloads/SEIRiP.pdf)
 3. [Natural Language Processing: What are the most important research papers which all NLP students should definitely read?](https://www.quora.com/Natural-Language-Processing/What-are-the-most-important-research-papers-which-all-NLP-students-should-definitely-read)
 4. [An introduction to Bioinformatics Algorithms](http://www.math-info.univ-paris5.fr/~lomn/Cours/BC/Publis/Complements/introductiontoBioinformaticsAlgorithms.pdf)
+5. [How many processors does a Google search query touch?](https://www.quora.com/How-many-processors-does-a-Google-search-query-touch/answer/Wolf-Garbe)
