@@ -73,6 +73,7 @@ Talks & Papers
 33. [Web Page Sectioning Using Regex-based Templates](http://www.ra.ethz.ch/CDstore/www2008/www2008.org/papers/pdf/p1151-mehtaA.pdf)
 34. [Learning and Matching Human Activities using Regular Expression](http://www.researchgate.net/profile/Nicola_Conci/publication/224201280_Learning_and_matching_human_activities_using_regular_expressions/links/0deec519ba76fd81d6000000.pdf)
 35. [RoadRunner](http://www.vldb.org/conf/2001/P109.pdf)
+36. [Efficient Query Evaluation using a Two-Level Retrieval Process](http://cis.poly.edu/westlab/papers/cntdstrb/p426-broder.pdf)
 
 Resources
 =========
