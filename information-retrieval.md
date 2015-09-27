@@ -21,6 +21,8 @@ IR Tools
 13. [News Corpus Builder](http://skillachie.github.io/news-corpus-builder/)
 14. [Google All Pair Similarity Search](https://code.google.com/p/google-all-pairs-similarity-search/)
 15. [Wukong - Chineese Search Engine in Go](https://github.com/huichen/wukong)
+16. [YAGO](http://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago//)
+17. [NELL])(http://rtw.ml.cmu.edu/rtw/kbbrowser/)
 
 Courses
 =======
@@ -75,6 +77,11 @@ Talks & Papers
 35. [RoadRunner](http://www.vldb.org/conf/2001/P109.pdf)
 36. [Efficient Query Evaluation using a Two-Level Retrieval Process](http://cis.poly.edu/westlab/papers/cntdstrb/p426-broder.pdf)
 37. [String Algorithms](http://web.stanford.edu/class/cs97si/10-string-algorithms.pdf)
+38. [Building, Maintaining, and Using Knowledge Bases: A Report from the Trenches](http://pages.cs.wisc.edu/~anhai/papers/kcs-sigmod13)
+39. [RoboBrain](http://arxiv.org/pdf/1412.0691.pdf)
+40. [Knowledge Base Completion via Search-Based Question Answering](http://infolab.stanford.edu/~west1/pubs/West-Gabrilovich-Murphy-Sun-Gupta-Lin_WWW-14.pdf)
+41. [Inside YAGO](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf)
+42. [Notes on Knowledge Representation](http://www.cs.ukzn.ac.za/~hughm/ai/notes/knowledgeRepresentation.pdf)
 
 Resources
 =========
