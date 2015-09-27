@@ -82,6 +82,10 @@ Talks & Papers
 40. [Knowledge Base Completion via Search-Based Question Answering](http://infolab.stanford.edu/~west1/pubs/West-Gabrilovich-Murphy-Sun-Gupta-Lin_WWW-14.pdf)
 41. [Inside YAGO](http://resources.mpi-inf.mpg.de/yago-naga/yago/publications/www2013demo.pdf)
 42. [Notes on Knowledge Representation](http://www.cs.ukzn.ac.za/~hughm/ai/notes/knowledgeRepresentation.pdf)
+43. [Ontology-Based Semantic Search on the Web](http://www.cs.ox.ac.uk/people/thomas.lukasiewicz/ssw11.pdf)
+44. [Large Scale Name Entity Disambiguation Based on Wikipedia Data](http://research.microsoft.com/pubs/68124/emnlp07.pdf)
+45. [Parsing with Word Vectors](http://www.denizyuret.com/2015/07/parsing-with-word-vectors.html) 
+46. [Building Expert System in Prolog](http://www.inf.fu-berlin.de/lehre/SS09/KI/folien/merritt.pdf)
 
 Resources
 =========
