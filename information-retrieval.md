@@ -86,6 +86,8 @@ Talks & Papers
 44. [Large Scale Name Entity Disambiguation Based on Wikipedia Data](http://research.microsoft.com/pubs/68124/emnlp07.pdf)
 45. [Parsing with Word Vectors](http://www.denizyuret.com/2015/07/parsing-with-word-vectors.html) 
 46. [Building Expert System in Prolog](http://www.inf.fu-berlin.de/lehre/SS09/KI/folien/merritt.pdf)
+47. [Using Encyclopedic Knowledge for Named Entity Disambiguation](http://www.cs.utexas.edu/~ml/papers/encyc-eacl-06.pdf)
+48. [Building Taxonomy of Web Search Intents for Name Entity Queries](http://research.microsoft.com/pubs/120889/fp0700-yin.pdf)
 
 Resources
 =========
