@@ -88,6 +88,13 @@ Talks & Papers
 46. [Building Expert System in Prolog](http://www.inf.fu-berlin.de/lehre/SS09/KI/folien/merritt.pdf)
 47. [Using Encyclopedic Knowledge for Named Entity Disambiguation](http://www.cs.utexas.edu/~ml/papers/encyc-eacl-06.pdf)
 48. [Building Taxonomy of Web Search Intents for Name Entity Queries](http://research.microsoft.com/pubs/120889/fp0700-yin.pdf)
+49. [Classifying Web Queries by Topic and User Intent](https://faculty.ist.psu.edu/jjansen/academic/jansen_user_intent.pdf)
+50. [Clustering Query Refinements by User Intent](http://homes.cs.washington.edu/~alon/www2010.pdf)
+51. [Object Level Vertical Resource](http://research.microsoft.com/en-us/people/jrwen/cidr2007.pdf)
+52. [Query Classification using Wikipedia's Graph](http://ojs.academypublisher.com/index.php/jetwi/article/viewFile/jetwi0403207220/5228)
+53. [Active Objects: Actions for Entity-Centric Search](http://www.anithakannan.com/yahoo_site_admin/assets/docs/activeObjectswww2012.8154516.pdf)
+54. [Query Classification KDDCUP 2005](http://www.sigkdd.org/sites/default/files/issues/7-2-2005-12/KDDCUP2005Report_Shen.pdf)
+
 
 Resources
 =========

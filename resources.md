@@ -58,6 +58,7 @@ Programming Languages Resources
 3. [C++ Language](http://www.cplusplus.com/doc/tutorial/)
 4. [Topcoder: STL Tutorial 1](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=standardTemplateLibrary)
 5. [Topcoder: STL Tutorial 2](http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=standardTemplateLibrary2)
+6. [Udemey's C Tutorial](https://blog.udemy.com/c-tutorial-learn-c-in-20-minutes/#4_1)
 
 Other Misc Resources
 ====================
