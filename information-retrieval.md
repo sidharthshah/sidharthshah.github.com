@@ -94,7 +94,9 @@ Talks & Papers
 52. [Query Classification using Wikipedia's Graph](http://ojs.academypublisher.com/index.php/jetwi/article/viewFile/jetwi0403207220/5228)
 53. [Active Objects: Actions for Entity-Centric Search](http://www.anithakannan.com/yahoo_site_admin/assets/docs/activeObjectswww2012.8154516.pdf)
 54. [Query Classification KDDCUP 2005](http://www.sigkdd.org/sites/default/files/issues/7-2-2005-12/KDDCUP2005Report_Shen.pdf)
-
+55. [Substring Search Algorithm](http://volnitsky.com/project/str_search/index.html)
+56. [Web Query Classification](https://en.wikipedia.org/wiki/Web_query_classification)
+57. [Query Enrichment for Web-query Classification](http://www.pancube.com/Paper/Query%20Enrichment%20for%20Web-query%20Classification.Shen.HKUST.TOIS.2006.Paper.pdf)
 
 Resources
 =========
