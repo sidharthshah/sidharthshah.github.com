@@ -106,3 +106,4 @@ Resources
 4. [An introduction to Bioinformatics Algorithms](http://www.math-info.univ-paris5.fr/~lomn/Cours/BC/Publis/Complements/introductiontoBioinformaticsAlgorithms.pdf)
 5. [How many processors does a Google search query touch?](https://www.quora.com/How-many-processors-does-a-Google-search-query-touch/answer/Wolf-Garbe)
 6. [Fast approximate string matching with large edit distances in Big Data](http://blog.faroo.com/2015/03/24/fast-approximate-string-matching-with-large-edit-distances/)
+7. [Search User Interfaces](http://searchuserinterfaces.com/book/)
