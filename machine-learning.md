@@ -81,6 +81,8 @@ Reading Resources
 42. [Featured Talk: #1 Kaggle Data Scientist Owen Zhang](http://nycdatascience.com/featured-talk-1-kaggle-data-scientist-owen-zhang/)
 43. [Online LDA with Vowpal Wabbit](http://mlwave.com/tutorial-online-lda-with-vowpal-wabbit/)
 44. [KAGGLE ENSEMBLING GUIDE](http://mlwave.com/kaggle-ensembling-guide/)
+45. [Recurrent Neural Networks Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+46. [Recurrent Neural Networks Tutorial, Part 2 – Implementing a RNN with Python, Numpy and Theano](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
 
 Visualization
 =============

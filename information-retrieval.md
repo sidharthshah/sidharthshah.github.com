@@ -97,6 +97,7 @@ Talks & Papers
 55. [Substring Search Algorithm](http://volnitsky.com/project/str_search/index.html)
 56. [Web Query Classification](https://en.wikipedia.org/wiki/Web_query_classification)
 57. [Query Enrichment for Web-query Classification](http://www.pancube.com/Paper/Query%20Enrichment%20for%20Web-query%20Classification.Shen.HKUST.TOIS.2006.Paper.pdf)
+58. [Teaching Machines to Read and Comprehend](http://arxiv.org/pdf/1506.03340v1.pdf)
 
 Resources
 =========
