@@ -108,3 +108,5 @@ Resources
 5. [How many processors does a Google search query touch?](https://www.quora.com/How-many-processors-does-a-Google-search-query-touch/answer/Wolf-Garbe)
 6. [Fast approximate string matching with large edit distances in Big Data](http://blog.faroo.com/2015/03/24/fast-approximate-string-matching-with-large-edit-distances/)
 7. [Search User Interfaces](http://searchuserinterfaces.com/book/)
+8. [Speech and Language Processing - DRAFT](https://web.stanford.edu/~jurafsky/slp3/)
+9. [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
