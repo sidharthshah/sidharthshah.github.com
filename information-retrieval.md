@@ -23,6 +23,7 @@ IR Tools
 15. [Wukong - Chineese Search Engine in Go](https://github.com/huichen/wukong)
 16. [YAGO](http://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago//)
 17. [NELL])(http://rtw.ml.cmu.edu/rtw/kbbrowser/)
+18. [Tweet NLP](http://www.ark.cs.cmu.edu/TweetNLP/)
 
 Courses
 =======
