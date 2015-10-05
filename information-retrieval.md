@@ -113,3 +113,10 @@ Resources
 7. [Search User Interfaces](http://searchuserinterfaces.com/book/)
 8. [Speech and Language Processing - DRAFT](https://web.stanford.edu/~jurafsky/slp3/)
 9. [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+
+Blogs
+=====
+1. [Salmon Run](http://sujitpal.blogspot.de/)
+2. [Natural Language Processing Blog](http://nlpers.blogspot.in/)
+3. [Text Mining, Analytics & More](http://www.text-analytics101.com/)
+4. [LingPipe Blog](http://lingpipe-blog.com/)
