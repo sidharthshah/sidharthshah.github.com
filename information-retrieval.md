@@ -24,6 +24,8 @@ IR Tools
 16. [YAGO](http://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/yago-naga/yago//)
 17. [NELL])(http://rtw.ml.cmu.edu/rtw/kbbrowser/)
 18. [Tweet NLP](http://www.ark.cs.cmu.edu/TweetNLP/)
+19. [GATE](https://gate.ac.uk/)
+20. [CRF Suite](http://www.chokkan.org/software/crfsuite/tutorial.html)
 
 Courses
 =======
