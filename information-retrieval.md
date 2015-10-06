@@ -104,6 +104,8 @@ Talks & Papers
 61. [GraphChi - Large-Scale Graph Computation on Just a PC](http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/osdi2012-graphchi.pdf)
 62. [Similarity Evaluation on Tree-structured Data](http://web.kaust.edu.sa/faculty/PanosKalnis/Publications/sigmod05.pdf)
 63. [Using Bloom Filters to Refine Web Search Results](http://research.microsoft.com/en-us/um/people/navendu/mypapers/webdb05tr.pdf)
+64. [Extracting social networks and contact information from email and the Web](http://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1035&context=cs_faculty_pubs)
+65. [Pizza Ontology](https://cs.uwaterloo.ca/~a78khan/docs/PizzaOntologyReview.pdf)
 
 Resources
 =========
@@ -123,3 +125,4 @@ Blogs
 2. [Natural Language Processing Blog](http://nlpers.blogspot.in/)
 3. [Text Mining, Analytics & More](http://www.text-analytics101.com/)
 4. [LingPipe Blog](http://lingpipe-blog.com/)
+5. [Decontextualize](http://www.decontextualize.com/)
