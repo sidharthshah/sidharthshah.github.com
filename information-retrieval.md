@@ -101,6 +101,9 @@ Talks & Papers
 58. [Teaching Machines to Read and Comprehend](http://arxiv.org/pdf/1506.03340v1.pdf)
 59. [Statistical Machine Translation: the basic, the novel, and the speculative](http://homepages.inf.ed.ac.uk/pkoehn/publications/tutorial2006.pdf)
 60. [Machine Translation for all European Languages](http://www.mt-archive.info/MTS-2007-Koehn-1.pdf)
+61. [GraphChi - Large-Scale Graph Computation on Just a PC](http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/osdi2012-graphchi.pdf)
+62. [Similarity Evaluation on Tree-structured Data](http://web.kaust.edu.sa/faculty/PanosKalnis/Publications/sigmod05.pdf)
+63. [Using Bloom Filters to Refine Web Search Results](http://research.microsoft.com/en-us/um/people/navendu/mypapers/webdb05tr.pdf)
 
 Resources
 =========
