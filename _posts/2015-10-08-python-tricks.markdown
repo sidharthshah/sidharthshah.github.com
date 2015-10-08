@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Part 2: Python Tricks learned this week"
+title:  "Part 5: Python Tricks learned this week"
 date:   2015-10-08 00:00:00
 categories: python
 ---
