@@ -108,6 +108,14 @@ Talks & Papers
 63. [Using Bloom Filters to Refine Web Search Results](http://research.microsoft.com/en-us/um/people/navendu/mypapers/webdb05tr.pdf)
 64. [Extracting social networks and contact information from email and the Web](http://scholarworks.umass.edu/cgi/viewcontent.cgi?article=1035&context=cs_faculty_pubs)
 65. [Pizza Ontology](https://cs.uwaterloo.ca/~a78khan/docs/PizzaOntologyReview.pdf)
+66. [Generating Semantically Precise Scene Graphs from Textual Descriptions for Improved Image Retrieval](http://nlp.stanford.edu/pubs/schuster-krishna-chang-feifei-manning-vl15.pdf)
+67. [Visual Rank: Applying PageRank to Large-Scale Image Search](http://www.kevinjing.com/jing_pami.pdf)
+68. [Image Retrieval using Scene Graph](http://hci.stanford.edu/publications/2015/scenegraphs/JohnsonCVPR2015.pdf)
+69. [Towards Total Scene Understanding](http://vision.stanford.edu/projects/totalscene/)
+70. [Neural Machine Translation](http://arxiv.org/pdf/1409.0473v6.pdf)
+71. [Traversing Knowledge Graphs in Vector Space](http://arxiv.org/pdf/1506.01094v2.pdf)
+72. [A large annotated corpus for learning natural language inference](http://nlp.stanford.edu/pubs/snli_paper.pdf)
+
 
 Resources
 =========
