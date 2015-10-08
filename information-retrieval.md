@@ -116,6 +116,7 @@ Talks & Papers
 71. [Traversing Knowledge Graphs in Vector Space](http://arxiv.org/pdf/1506.01094v2.pdf)
 72. [A large annotated corpus for learning natural language inference](http://nlp.stanford.edu/pubs/snli_paper.pdf)
 73. [Forum77: An Analysis of an Online Health Forum Dedicatedto Addiction Recovery](http://nlp.stanford.edu/pubs/2015-Forum77-CSCW-2.pdf)
+74. [Disaster Monitoring with Wikipedia and Online Social Networking Sites](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44015.pdf)
 
 Resources
 =========
