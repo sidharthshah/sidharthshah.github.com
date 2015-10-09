@@ -26,6 +26,7 @@ IR Tools
 18. [Tweet NLP](http://www.ark.cs.cmu.edu/TweetNLP/)
 19. [GATE](https://gate.ac.uk/)
 20. [CRF Suite](http://www.chokkan.org/software/crfsuite/tutorial.html)
+21. [jusText](https://github.com/miso-belica/jusText)
 
 Courses
 =======

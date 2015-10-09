@@ -20,7 +20,8 @@ ML Tools
 12. [NetworkX](https://networkx.github.io/documentation/latest/reference/algorithms.html)
 13. [Caffe](http://caffe.berkeleyvision.org/)
 14. [Deepdish](http://deepdish.io/)
-
+15. [JuliaStats](http://juliastats.github.io/)
+16. [Mocha.jl](http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/)
 
 Courses
 =======
