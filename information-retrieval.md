@@ -27,6 +27,8 @@ IR Tools
 19. [GATE](https://gate.ac.uk/)
 20. [CRF Suite](http://www.chokkan.org/software/crfsuite/tutorial.html)
 21. [jusText](https://github.com/miso-belica/jusText)
+22. [A curated list of speech and natural language processing resources](https://medium.com/@joshdotai/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a)
+23. [entity-recognition](https://github.com/leondz/entity-recognition)
 
 Courses
 =======
@@ -118,6 +120,8 @@ Talks & Papers
 72. [A large annotated corpus for learning natural language inference](http://nlp.stanford.edu/pubs/snli_paper.pdf)
 73. [Forum77: An Analysis of an Online Health Forum Dedicatedto Addiction Recovery](http://nlp.stanford.edu/pubs/2015-Forum77-CSCW-2.pdf)
 74. [Disaster Monitoring with Wikipedia and Online Social Networking Sites](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44015.pdf)
+75. [Deep Learning for NLP](http://lxmls.it.pt/2014/socher-lxmls.pdf)
+
 
 Resources
 =========
