@@ -86,6 +86,7 @@ Reading Resources
 46. [Recurrent Neural Networks Tutorial, Part 2 – Implementing a RNN with Python, Numpy and Theano](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-2-implementing-a-language-model-rnn-with-python-numpy-and-theano/)
 47. [Random Forests Can Hash](http://arxiv.org/pdf/1412.5083v3.pdf)
 48. [A Huge List of Machine Learning And Statistics Repositories](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
+49. [Understanding Support Vector Machine Algorithm](http://www.analyticsvidhya.com/blog/2015/10/understaing-support-vector-machine-example-code/)
 
 Visualization
 =============
