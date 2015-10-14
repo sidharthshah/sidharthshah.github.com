@@ -87,6 +87,7 @@ Reading Resources
 47. [Random Forests Can Hash](http://arxiv.org/pdf/1412.5083v3.pdf)
 48. [A Huge List of Machine Learning And Statistics Repositories](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
 49. [Understanding Support Vector Machine Algorithm](http://www.analyticsvidhya.com/blog/2015/10/understaing-support-vector-machine-example-code/)
+50. [Auto-Generating Clickbait With Recurrent Neural Networks](http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
 
 Visualization
 =============
