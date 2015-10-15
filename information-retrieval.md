@@ -43,6 +43,7 @@ Courses
 9. [Networks](https://courses.cit.cornell.edu/info2040_2014fa/)
 10. [Social Media Analytics](http://www.isi.edu/~lerman/courses/csci599_2015/Syllabus-Social%20Media%20Analytics_v1.pdf)
 11. [Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
+12. [MOOC NLP Slides](http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
 
 Talks & Papers
 ==============
