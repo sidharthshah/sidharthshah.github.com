@@ -122,7 +122,7 @@ Talks & Papers
 73. [Forum77: An Analysis of an Online Health Forum Dedicatedto Addiction Recovery](http://nlp.stanford.edu/pubs/2015-Forum77-CSCW-2.pdf)
 74. [Disaster Monitoring with Wikipedia and Online Social Networking Sites](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44015.pdf)
 75. [Deep Learning for NLP](http://lxmls.it.pt/2014/socher-lxmls.pdf)
-
+76. [Making Watson Fast](http://researcher.watson.ibm.com/researcher/files/us-heq/W(17)%20MAKING%20WATSON%20FAST%2006177722.pdf)
 
 Resources
 =========

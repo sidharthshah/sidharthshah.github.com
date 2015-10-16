@@ -22,6 +22,7 @@ ML Tools
 14. [Deepdish](http://deepdish.io/)
 15. [JuliaStats](http://juliastats.github.io/)
 16. [Mocha.jl](http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/)
+17. [FacebookNN](https://github.com/facebook/fbnn) and [Torch](https://github.com/torch/torch7/wiki/Cheatsheet)
 
 Courses
 =======
@@ -88,6 +89,8 @@ Reading Resources
 48. [A Huge List of Machine Learning And Statistics Repositories](http://blog.josephmisiti.com/a-huge-list-of-machine-learning-repositories/)
 49. [Understanding Support Vector Machine Algorithm](http://www.analyticsvidhya.com/blog/2015/10/understaing-support-vector-machine-example-code/)
 50. [Auto-Generating Clickbait With Recurrent Neural Networks](http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
+51. [What I learned from competing against a ConvNet on ImageNet](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
+52. [Hacker's Guide to Neural Network](http://karpathy.github.io/neuralnets/#)
 
 Visualization
 =============
