@@ -123,6 +123,8 @@ Talks & Papers
 74. [Disaster Monitoring with Wikipedia and Online Social Networking Sites](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44015.pdf)
 75. [Deep Learning for NLP](http://lxmls.it.pt/2014/socher-lxmls.pdf)
 76. [Making Watson Fast](http://researcher.watson.ibm.com/researcher/files/us-heq/W(17)%20MAKING%20WATSON%20FAST%2006177722.pdf)
+77. [Navigating themes in restaurant reviews with Word Mover’s Distance](http://tech.opentable.com/2015/08/11/navigating-themes-in-restaurant-reviews-with-word-movers-distance/)
+78. [A Word is Worth a Thousand Vectors](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
 
 Resources
 =========

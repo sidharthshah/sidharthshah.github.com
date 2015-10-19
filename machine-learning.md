@@ -91,6 +91,8 @@ Reading Resources
 50. [Auto-Generating Clickbait With Recurrent Neural Networks](http://larseidnes.com/2015/10/13/auto-generating-clickbait-with-recurrent-neural-networks/)
 51. [What I learned from competing against a ConvNet on ImageNet](http://karpathy.github.io/2014/09/02/what-i-learned-from-competing-against-a-convnet-on-imagenet/)
 52. [Hacker's Guide to Neural Network](http://karpathy.github.io/neuralnets/#)
+53. [A Tutorial on Deep learning Part 1](http://www-cs.stanford.edu/~quocle/tutorial1.pdf)
+54. [A Tutorial on Deep learning Part 2](http://www-cs.stanford.edu/~quocle/tutorial2.pdf)
 
 Visualization
 =============
