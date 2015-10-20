@@ -125,6 +125,8 @@ Talks & Papers
 76. [Making Watson Fast](http://researcher.watson.ibm.com/researcher/files/us-heq/W(17)%20MAKING%20WATSON%20FAST%2006177722.pdf)
 77. [Navigating themes in restaurant reviews with Word Mover’s Distance](http://tech.opentable.com/2015/08/11/navigating-themes-in-restaurant-reviews-with-word-movers-distance/)
 78. [A Word is Worth a Thousand Vectors](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
+79. [FlashGraph: Processing Billion-Node Graphs on an Array of Commodity SSDs](https://www.usenix.org/system/files/conference/fast15/fast15-paper-zheng.pdf)
+80. [Scale-up Graph Processing in Single Computer](http://www.ctr.kcl.ac.uk/seminars/slides/ssbd-Eiko.pdf)
 
 Resources
 =========
