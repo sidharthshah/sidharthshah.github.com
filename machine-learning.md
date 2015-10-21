@@ -93,6 +93,7 @@ Reading Resources
 52. [Hacker's Guide to Neural Network](http://karpathy.github.io/neuralnets/#)
 53. [A Tutorial on Deep learning Part 1](http://www-cs.stanford.edu/~quocle/tutorial1.pdf)
 54. [A Tutorial on Deep learning Part 2](http://www-cs.stanford.edu/~quocle/tutorial2.pdf)
+55. [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks#signal-and-sound-processing)
 
 Visualization
 =============

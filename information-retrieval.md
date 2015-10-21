@@ -29,6 +29,7 @@ IR Tools
 21. [jusText](https://github.com/miso-belica/jusText)
 22. [A curated list of speech and natural language processing resources](https://medium.com/@joshdotai/a-curated-list-of-speech-and-natural-language-processing-resources-4d89f94c032a)
 23. [entity-recognition](https://github.com/leondz/entity-recognition)
+24. [The CMU-Cambridge Statistical Language Modeling Toolkit v2](http://www.speech.cs.cmu.edu/SLM/toolkit_documentation.html)
 
 Courses
 =======
