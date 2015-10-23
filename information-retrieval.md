@@ -128,6 +128,8 @@ Talks & Papers
 78. [A Word is Worth a Thousand Vectors](http://multithreaded.stitchfix.com/blog/2015/03/11/word-is-worth-a-thousand-vectors/)
 79. [FlashGraph: Processing Billion-Node Graphs on an Array of Commodity SSDs](https://www.usenix.org/system/files/conference/fast15/fast15-paper-zheng.pdf)
 80. [Scale-up Graph Processing in Single Computer](http://www.ctr.kcl.ac.uk/seminars/slides/ssbd-Eiko.pdf)
+81. [Creating your own programming Language with ANTLR](http://bkiers.blogspot.in/2011/03/creating-your-own-programming-language.html)
+82. [Short Text Similarity with word Embeddings](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/kenter-short-2015.pdf)
 
 Resources
 =========
