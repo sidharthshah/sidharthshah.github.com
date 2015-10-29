@@ -23,6 +23,8 @@ ML Tools
 15. [JuliaStats](http://juliastats.github.io/)
 16. [Mocha.jl](http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/)
 17. [FacebookNN](https://github.com/facebook/fbnn) and [Torch](https://github.com/torch/torch7/wiki/Cheatsheet)
+18. [python-recsys](http://ocelma.net/software/python-recsys/build/html/index.html)
+19. [LensKit](http://lenskit.org/documentation/basics/)
 
 Courses
 =======
