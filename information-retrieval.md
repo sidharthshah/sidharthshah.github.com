@@ -130,6 +130,7 @@ Talks & Papers
 80. [Scale-up Graph Processing in Single Computer](http://www.ctr.kcl.ac.uk/seminars/slides/ssbd-Eiko.pdf)
 81. [Creating your own programming Language with ANTLR](http://bkiers.blogspot.in/2011/03/creating-your-own-programming-language.html)
 82. [Short Text Similarity with word Embeddings](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/kenter-short-2015.pdf)
+83. [An Inside View of Language Technologies at Google](http://breakthroughanalysis.com/2015/10/28/an-inside-view-of-language-technologies-at-google/)
 
 Resources
 =========
