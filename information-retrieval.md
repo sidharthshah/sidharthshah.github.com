@@ -45,6 +45,7 @@ Courses
 10. [Social Media Analytics](http://www.isi.edu/~lerman/courses/csci599_2015/Syllabus-Social%20Media%20Analytics_v1.pdf)
 11. [Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
 12. [MOOC NLP Slides](http://web.stanford.edu/~jurafsky/NLPCourseraSlides.html)
+13. [Advanced NLP](https://courses.engr.illinois.edu/cs598jhm/sp2013/index.html)
 
 Talks & Papers
 ==============
