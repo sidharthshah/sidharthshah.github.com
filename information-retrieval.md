@@ -132,6 +132,14 @@ Talks & Papers
 81. [Creating your own programming Language with ANTLR](http://bkiers.blogspot.in/2011/03/creating-your-own-programming-language.html)
 82. [Short Text Similarity with word Embeddings](https://staff.fnwi.uva.nl/m.derijke/wp-content/papercite-data/pdf/kenter-short-2015.pdf)
 83. [An Inside View of Language Technologies at Google](http://breakthroughanalysis.com/2015/10/28/an-inside-view-of-language-technologies-at-google/)
+84. [Computer, respond to this email.](http://googleresearch.blogspot.in/2015/11/computer-respond-to-this-email.html)
+85. [Sequence to Sequence Learning with Neural Network](http://arxiv.org/pdf/1409.3215v3.pdf)
+86. [Thought Vectors](https://www.quora.com/What-are-thought-vectors)
+87. [Thought Vectors, Deep Learning & Future of AI](http://deeplearning4j.org/thoughtvectors)
+88. [Skip Thought Vectors](http://arxiv.org/pdf/1506.06726v1.pdf)
+89. [How Google Converted Language Translation Into a Problem of Vector Space Mathematics](http://www.technologyreview.com/view/519581/how-google-converted-language-translation-into-a-problem-of-vector-space-mathematics/)
+90. [Google Is Working On A New Type Of Algorithm Called “Thought Vectors”](Google Is Working On A New Type Of Algorithm Called “Thought Vectors”)
+91. [Representing Text for Joint Embedding of Text and Knowledge Bases](http://research.microsoft.com/pubs/254916/emnlp2015kgtext.pdf)
 
 Resources
 =========
