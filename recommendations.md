@@ -70,6 +70,8 @@ Recommendation System](http://www.nvidia.com/content/GTC/documents/1034_GTC09.pd
 39. [LinkedIn Publications](http://data.linkedin.com/publications)
 40. [Building the Next New York Times Recommendation Engine](http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/)
 41. [Research on Recommendation System](http://michael.hahsler.net/research/recommender/)
+42. [A Unified Approach to Building Hybrid Recommender Systems](http://research.microsoft.com/pubs/81783/gunawardana09__unified_approac_build_hybrid_recom_system.pdf)
+43. [Recommender System Algorithms](http://www.cs.carleton.edu/cs_comps/0607/recommend/recommender/algorithms.html)
 
 Companies
 =========
